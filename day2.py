@@ -2,9 +2,9 @@
 
 --->Variable
 
-      in programing a variable is a container which can hold data
+ in programing a variable is a container which can hold data
       
-  to define variables  we have 2 rules
+ to define variables  we have 2 rules
  
  1. good rule to define  a varaible(no errors)
  
